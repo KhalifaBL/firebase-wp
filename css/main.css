@@ -1,0 +1,23 @@
+.carousel-item > img{
+    height: 720px;
+}
+.products-container{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+.products-container > div{
+    margin: 30px;
+}
+.card > img{
+    height: 200px;
+}
+.form-container {
+  display: flex;
+  justify-content: center;
+}
+.form-container form {
+  padding: 10px;
+  margin: 20px;
+}
